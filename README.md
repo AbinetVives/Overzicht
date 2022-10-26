@@ -1,3 +1,3 @@
-# Algemene Informatie en afspraken
+# Overzicht projecten
 
-### Naamgeving repositories:  YY-Abinet-Naam bv. 20-Abinet-Vivesplus 
+
