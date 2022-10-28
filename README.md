@@ -1,4 +1,4 @@
-# Overzicht projecten
+# Overzicht projecten                       ![logo.png]
 
 ### [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 
