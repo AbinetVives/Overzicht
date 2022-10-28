@@ -1,4 +1,4 @@
-# Overzicht projecten                       <img src="logo.png" alt="Logo Abinet" width="200"/>
+# Overzicht projecten                                                                         <img src="logo.png" alt="Logo Abinet" width="200"/>
 
 ### [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 
