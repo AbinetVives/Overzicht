@@ -1,4 +1,4 @@
-![Abinet Logo](logo.png = 250)
+![Abinet Logo](logo.png)
 
 # Overzicht projecten                                                                         
 
