@@ -1,4 +1,4 @@
-![Abinet Logo](logo.png =100x250)
+<img src="logo.png" width="200">
 
 # Overzicht projecten                                                                         
 
