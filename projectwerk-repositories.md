@@ -3,9 +3,9 @@
 <th> Locatie: /data/datadisk/homes/git/repositories </th>
 </tr>
 <tr>
-<td>
-    19iwt.git</td>
-<td>2016-alina.git
+<td><p>
+19iwt.git
+2016-alina.git
 2016-bostoen.git
 2016-chocolicious
 2016-chocolicious.git
@@ -263,7 +263,7 @@ zeeboon.git
 zonnelied.git
 zorglab
 zorglab-houseofwellbeing.git
-</td>
+    </p></td>
 <td>
 
 ```c++
