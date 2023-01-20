@@ -262,7 +262,8 @@ young-potentialt.git
 zeeboon.git
 zonnelied.git
 zorglab
-zorglab-houseofwellbeing.git
+zorglab-houseofwellbeing.git![image](https://user-images.githubusercontent.com/44951269/213741953-f9610b5b-ea10-4bad-bef0-f74d9791811a.png)
+
 </td>
 <td>
 
