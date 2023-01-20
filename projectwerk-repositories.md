@@ -5,7 +5,6 @@
 <tr>
 <td>
 19iwt.git
-    
 2016-alina.git
 2016-bostoen.git
 2016-chocolicious
