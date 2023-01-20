@@ -265,15 +265,5 @@ zorglab	<br>
 zorglab-houseofwellbeing.git	<br>
 
 </td>
-<td>
-
-```c++
-int foo() { 
-    int x = 4;
-    return x;
-}
-```
-
-</td>
 </tr>
 </table>
