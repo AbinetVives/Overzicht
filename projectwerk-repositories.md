@@ -4,265 +4,266 @@
 </tr>
 <tr>
 <td>
-19iwt.git
-2016-alina.git
-2016-bostoen.git
-2016-chocolicious
-2016-chocolicious.git
-2016-gavers
-2016-kortrijk-klimaatstad.git
-2016-mediander
-2016-mediander.git
-2016-reframe
-2016-reframe.git
-2016-teledienst-alarmtoestellen.git
-2016-udl
-2016-udl.git
-2016-veiligheidsplan-wielerwedstrijden.git
-2017-100-west-vlaams.git
-2017-4ddzine
-2017-4ddzine.git
-2017-arhus.git
-2017-demo.git
-2017-diekeure
-2017-diekeure.git
-2017-hbo5winkelmanagement.git
-2017-imb1617-jeugdtechnologieolympiade.git
-2017-imb1617-maaklab.git
-2017-imb1617-voedselbanken.git
-2017-infrastructuurteam.git
-2017-it-project-ao-1.git
-2017-it-project-ao-2.git
-2017-it-project-ao-3.git
-2017-it-project-ao-4.git
-2017-it-project-ao-5.git
-2017-it-project-ao-6.git
-2017-it-project-ao-7.git
-2017-it-project-ao-8.git
-2017-kindervriend.git
-2017-kinderwens.git
-2017-leerbedrijf-it-omgeving.git
-2017-management-days
-2017-management-days.git
-2017-npibarco
-2017-oranjehuis.git
-2017-oxfam.git
-2017-pegusapps.git
-2017-school-ziek-zijn.git
-2017-smart-car-sharing.git
-2017-sportbank.git
-2017-surrounthings.git
-2017-technologieolympiade.git
-2017-teledienst
-2017-teledienst.git
-2017-toegepaste-informatica-ao.git
-2017-vereniging-plantenliefhebbers.git
-2017-webshop.git
-2017-welness-vitaliteitsmanagement.git
-2017-zonnewende.git
-2017-zorgdieren
-2017-zorgdieren.git
-2018-aankoop-stockbeheer-moorslede.git
-2018-abinet.git
-2018-costeel.git
-2018-crm-dienst-communicatie.git
-2018-don-bosco
-2018-don-bosco.git
-2018-ict-taken-tielt.git
-2018-kalenda.git
-2018-kassasysteem-withuis.git
-2018-landoflove.git
-2018-lvs-tvier.git
-2018-npi-barco.git
-2018-ocd.git
-2018-odoo-event.git
-2018-odoo-welbeing.git
-2018-online-besteltool-restaurants.git
-2018-prizma.git
-2018-public-minds.git
-2018-pwo-sportmanagement-datavisualisatie.git
-2018-sandbox
-2018-securityaudit.git
-2018-svga.git
-2018-totaaplan.git
-2018-vegan-app.git
-2018-vives-student
-2018-vives-student.git
-2018-vives-studenu.git
-2018-webplatform-marketing-proces.git
-2018-website-cms-isto.git
-2018-website-osteopate.git
-2018-website-zustertaal.git
-2018-zonnewende-ocmw
-2018-zonnewende-ocmw.git
-2019-anxiety
-2019-anxiety.git
-2019-degavers_reddingstool.git
-2019-deleersnyder.git
-2019-drone-oostende.git
-2019-equisalu.git
-2019-gavers-erp.git
-2019-jets.git
-2019-jhbjschoolantwerpen.git
-2019-kmosoftware.git
-2019-marienstede.git
-2019-optiekdeclercq.git
-2019-quabello.git
-2019-security-software.git
-2019-sportwereld
-2019-spotit.git
-2019-tavelmo.git
-2019-teams.git
-2019-tysea.git
-2019-welzijn.git
-2019-winefever.git
-2019-winefevershop.git
-2020tvh
-2020tvh.git
-2021_lm
-2021_lm.git
-abinet2021.git
-academicsoftware.git
-actiefcomp.git
-adriaens.git
-alcos.git
-assescard.git
-beerapp.git
-bemok.git
-bibcc
-bibcc.git
-bibcm
-bibster
-bibster.git
-bibun
-bibun.git
-boardgame.git
-bodemtool
-bodemtool.git
-buurtwinkel.git
-cedkaley.git
-chai.git
-click1.git
-click2.git
-click3.git
-click4.git
-codefever_2018.git
-connect.git
-corentin.git
-depre.git
-dialog.git
-diekeuere.git
-diekeure2019.git
-dotlaunch.git
-drinksservice.git
-dsfcast.git
-elindus
-elindus.git
-fietscontrole
-fietscontrole.git
-fietsenadr.git
-food4alo
-gamepost.git
-gavduik
-gavduik.git
-gavers-objects_management_2018.git
-gitolite-admin.git
-harelbeke.git
-hbp
-hbp.git
-ict_centraal.git
-ide_motive_2018.git
-ideation.git
-infcast.git
-infra_pe1.git
-ing.git
-ini.git
-innerc.git
-innovatie
-innovatie.git
-internshipti.git
-kbrp.git
-kinderdagverblijf.git
-learnanalytics
-learnanalytics.git
-lerenenwerken
-lerenenwerken.git
-letterweg.git
-lions1
-lions1.git
-maribauw.git
-matecoinfra.git
-milcobel.git
-mobiz
-moev2022.git
-nestel.git
-nuyttens-automatisatie
-nuyttens-automatisatie.git
-odoo.git
-oranjehuis-victor-2019
-paintfactory.git
-peer-assessment
-peer-assessment.git
-peer-assessmenu.git
-peer-assessmenv.git
-pegus.git
-pegut
-pegut.git
-peguu.git
-peguv
-peguv.git
-projectwerk.git
-projectwerl.git
-rdghfc.git
-redmine-ng2-admin
-redmine_2018.git
-roomres
-roomres.git
-safemeetup.git
-salesatelier_2018.git
-scio.git
-scolavzw.git
-shingitai.git
-sintpaulus.git
-sns.git
-soudal
-sporthalharelbeke.git
-studentencomfort.git
-stvincentius
-stvincentius.git
-tastefever
-tastefever.git
-testing.git
-transfo
-transu1.git
-transu2.git
-tsfcast
-tsfcast.git
-tvier.git
-urgent.git
-verso
-verso.git
-versv
-versv.git
-vivescomm.git
-vivesplus
-vivesplus.git
-vivesstage.git
-viveswebshop.git
-voenic.git
-voeten.git
-vzwo21.git
-vzwo22.git
-wbo.git
-wdworks.git
-weekendfixed
-xtopia-headset-minect.git
-young-potentials
-young-potentialt.git
-zeeboon.git
-zonnelied.git
-zorglab
-zorglab-houseofwellbeing.git
+19iwt.git	\n
+2016-alina.git	\n
+2016-bostoen.git	\n
+2016-chocolicious	\n
+2016-chocolicious.git	\n
+2016-gavers	\n
+2016-kortrijk-klimaatstad.git	\n
+2016-mediander	\n
+2016-mediander.git	\n
+2016-reframe	\n
+2016-reframe.git	\n
+2016-teledienst-alarmtoestellen.git	\n
+2016-udl	\n
+2016-udl.git	\n
+2016-veiligheidsplan-wielerwedstrijden.git	\n
+2017-100-west-vlaams.git	\n
+2017-4ddzine	\n
+2017-4ddzine.git	\n
+2017-arhus.git	\n
+2017-demo.git	\n
+2017-diekeure	\n
+2017-diekeure.git	\n
+2017-hbo5winkelmanagement.git	\n
+2017-imb1617-jeugdtechnologieolympiade.git	\n
+2017-imb1617-maaklab.git	\n
+2017-imb1617-voedselbanken.git	\n
+2017-infrastructuurteam.git	\n
+2017-it-project-ao-1.git	\n
+2017-it-project-ao-2.git	\n
+2017-it-project-ao-3.git	\n
+2017-it-project-ao-4.git	\n
+2017-it-project-ao-5.git	\n
+2017-it-project-ao-6.git	\n
+2017-it-project-ao-7.git	\n
+2017-it-project-ao-8.git	\n
+2017-kindervriend.git	\n
+2017-kinderwens.git	\n
+2017-leerbedrijf-it-omgeving.git	\n
+2017-management-days	\n
+2017-management-days.git	\n
+2017-npibarco	\n
+2017-oranjehuis.git	\n
+2017-oxfam.git	\n
+2017-pegusapps.git	\n
+2017-school-ziek-zijn.git	\n
+2017-smart-car-sharing.git	\n
+2017-sportbank.git	\n
+2017-surrounthings.git	\n
+2017-technologieolympiade.git	\n
+2017-teledienst	\n
+2017-teledienst.git	\n
+2017-toegepaste-informatica-ao.git	\n
+2017-vereniging-plantenliefhebbers.git	\n
+2017-webshop.git	\n
+2017-welness-vitaliteitsmanagement.git	\n
+2017-zonnewende.git	\n
+2017-zorgdieren	\n
+2017-zorgdieren.git	\n
+2018-aankoop-stockbeheer-moorslede.git	\n
+2018-abinet.git	\n
+2018-costeel.git	\n
+2018-crm-dienst-communicatie.git	\n
+2018-don-bosco	\n
+2018-don-bosco.git	\n
+2018-ict-taken-tielt.git	\n
+2018-kalenda.git	\n
+2018-kassasysteem-withuis.git	\n
+2018-landoflove.git	\n
+2018-lvs-tvier.git	\n
+2018-npi-barco.git	\n
+2018-ocd.git	\n
+2018-odoo-event.git	\n
+2018-odoo-welbeing.git	\n
+2018-online-besteltool-restaurants.git	\n
+2018-prizma.git	\n
+2018-public-minds.git	\n
+2018-pwo-sportmanagement-datavisualisatie.git	\n
+2018-sandbox	\n
+2018-securityaudit.git	\n
+2018-svga.git	\n
+2018-totaaplan.git	\n
+2018-vegan-app.git	\n
+2018-vives-student	\n
+2018-vives-student.git	\n
+2018-vives-studenu.git	\n
+2018-webplatform-marketing-proces.git	\n
+2018-website-cms-isto.git	\n
+2018-website-osteopate.git	\n
+2018-website-zustertaal.git	\n
+2018-zonnewende-ocmw	\n
+2018-zonnewende-ocmw.git	\n
+2019-anxiety	\n
+2019-anxiety.git	\n
+2019-degavers_reddingstool.git	\n
+2019-deleersnyder.git	\n
+2019-drone-oostende.git	\n
+2019-equisalu.git	\n
+2019-gavers-erp.git	\n
+2019-jets.git	\n
+2019-jhbjschoolantwerpen.git	\n
+2019-kmosoftware.git	\n
+2019-marienstede.git	\n
+2019-optiekdeclercq.git	\n
+2019-quabello.git	\n
+2019-security-software.git	\n
+2019-sportwereld	\n
+2019-spotit.git	\n
+2019-tavelmo.git	\n
+2019-teams.git	\n
+2019-tysea.git	\n
+2019-welzijn.git	\n
+2019-winefever.git	\n
+2019-winefevershop.git	\n
+2020tvh	\n
+2020tvh.git	\n
+2021_lm	\n
+2021_lm.git	\n
+abinet2021.git	\n
+academicsoftware.git	\n
+actiefcomp.git	\n
+adriaens.git	\n
+alcos.git	\n
+assescard.git	\n
+beerapp.git	\n
+bemok.git	\n
+bibcc	\n
+bibcc.git	\n
+bibcm	\n
+bibster	\n
+bibster.git	\n
+bibun	\n
+bibun.git	\n
+boardgame.git	\n
+bodemtool	\n
+bodemtool.git	\n
+buurtwinkel.git	\n
+cedkaley.git	\n
+chai.git	\n
+click1.git	\n
+click2.git	\n
+click3.git	\n
+click4.git	\n
+codefever_2018.git	\n
+connect.git	\n
+corentin.git	\n
+depre.git	\n
+dialog.git	\n
+diekeuere.git	\n
+diekeure2019.git	\n
+dotlaunch.git	\n
+drinksservice.git	\n
+dsfcast.git	\n
+elindus	\n
+elindus.git	\n
+fietscontrole	\n
+fietscontrole.git	\n
+fietsenadr.git	\n
+food4alo	\n
+gamepost.git	\n
+gavduik	\n
+gavduik.git	\n
+gavers-objects_management_2018.git	\n
+gitolite-admin.git	\n
+harelbeke.git	\n
+hbp	\n
+hbp.git	\n
+ict_centraal.git	\n
+ide_motive_2018.git	\n
+ideation.git	\n
+infcast.git	\n
+infra_pe1.git	\n
+ing.git	\n
+ini.git	\n
+innerc.git	\n
+innovatie	\n
+innovatie.git	\n
+internshipti.git	\n
+kbrp.git	\n
+kinderdagverblijf.git	\n
+learnanalytics	\n
+learnanalytics.git	\n
+lerenenwerken	\n
+lerenenwerken.git	\n
+letterweg.git	\n
+lions1	\n
+lions1.git	\n
+maribauw.git	\n
+matecoinfra.git	\n
+milcobel.git	\n
+mobiz	\n
+moev2022.git	\n
+nestel.git	\n
+nuyttens-automatisatie	\n
+nuyttens-automatisatie.git	\n
+odoo.git	\n
+oranjehuis-victor-2019	\n
+paintfactory.git	\n
+peer-assessment	\n
+peer-assessment.git	\n
+peer-assessmenu.git	\n
+peer-assessmenv.git	\n
+pegus.git	\n
+pegut	\n
+pegut.git	\n
+peguu.git	\n
+peguv	\n
+peguv.git	\n
+projectwerk.git	\n
+projectwerl.git	\n
+rdghfc.git	\n
+redmine-ng2-admin	\n
+redmine_2018.git	\n
+roomres	\n
+roomres.git	\n
+safemeetup.git	\n
+salesatelier_2018.git	\n
+scio.git	\n
+scolavzw.git	\n
+shingitai.git	\n
+sintpaulus.git	\n
+sns.git	\n
+soudal	\n
+sporthalharelbeke.git	\n
+studentencomfort.git	\n
+stvincentius	\n
+stvincentius.git	\n
+tastefever	\n
+tastefever.git	\n
+testing.git	\n
+transfo	\n
+transu1.git	\n
+transu2.git	\n
+tsfcast	\n
+tsfcast.git	\n
+tvier.git	\n
+urgent.git	\n
+verso	\n
+verso.git	\n
+versv	\n
+versv.git	\n
+vivescomm.git	\n
+vivesplus	\n
+vivesplus.git	\n
+vivesstage.git	\n
+viveswebshop.git	\n
+voenic.git	\n
+voeten.git	\n
+vzwo21.git	\n
+vzwo22.git	\n
+wbo.git	\n
+wdworks.git	\n
+weekendfixed	\n
+xtopia-headset-minect.git	\n
+young-potentials	\n
+young-potentialt.git	\n
+zeeboon.git	\n
+zonnelied.git	\n
+zorglab	\n
+zorglab-houseofwellbeing.git	\n
+
 
 </td>
 <td>
