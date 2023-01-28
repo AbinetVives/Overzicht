@@ -15,7 +15,7 @@
 
 ### [2023 AO Fietscontrole 2.0](https://github.com/AbinetVives/2023AO-Fietscontrole2.0.git)
 ### Managements days Repositories
-### [2023 AO Management Days](https://github.com/AbinetVives/2023AO-ManagementDays.git)
-### [2017 Management Days]()
-### [2022 Management Days Group 2](https://github.com/AbinetVives/2022-management-days-g2)
-### [2017 Management Days Group 3](https://github.com/AbinetVives/2022-management-days-g3)
+° ### [2023 AO Management Days](https://github.com/AbinetVives/2023AO-ManagementDays.git)
+° ### [2017 Management Days]()
+° ### [2022 Management Days Group 2](https://github.com/AbinetVives/2022-management-days-g2)
+° ### [2017 Management Days Group 3](https://github.com/AbinetVives/2022-management-days-g3)
