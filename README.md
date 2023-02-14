@@ -2,9 +2,9 @@
 
 # Overzicht projecten                                                                         
 
-### Teledienst
-* [2022 Teledienst](https://github.com/AbinetVives/teledienst)
-* [televestiaire](https://github.com/AbinetVives/televestiaire)
+### 📁 Teledienst
+✒︎ [2022 Teledienst](https://github.com/AbinetVives/teledienst)
+✒︎ [televestiaire](https://github.com/AbinetVives/televestiaire)
 ### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 ### [2022 UDL](https://github.com/AbinetVives/udl)
 ### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
