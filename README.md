@@ -27,6 +27,7 @@
 ► [2022 Xtopia Bionic Assistant Backend](https://github.com/AbinetVives/xtopia-bionic-assistant-backend)
 ► [2022 Xtopia Bionic Assistant Frontend](https://github.com/AbinetVives/xtopia-front-end)
 ► [2022 Xtopia Bionic Assistant Robot](https://github.com/AbinetVives/xtopia-bionic-assistant-robot)
+► [2022 Xtopia VR](https://github.com/AbinetVives/xtopia-vr)
 
 ### 📁 Harelbeke Sporthal van de toekomst repositories
 ► [2023 Sporthal Harelbeke](https://github.com/AbinetVives/2023-sporthal-harelbeke)
