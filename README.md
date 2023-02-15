@@ -1,4 +1,4 @@
-<img src="logo.png" width="200"> <img src="https://www.vives.be/themes/custom/vives/logo.svg" width="150">
+<img src="logo.png" width="200"> <img src="https://www.vives.be/themes/custom/vives/logo.svg" width="100">
 
 # Overzicht projecten                                                                         
 
