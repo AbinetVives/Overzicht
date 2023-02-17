@@ -7,6 +7,8 @@
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
 #### [2021 Assessment Card](https://github.com/AbinetVives/assessment-card)
 #### [2023 AO Fietscontrole 2.0](https://github.com/AbinetVives/2023AO-Fietscontrole2.0.git)
+#### [2023 WZC Wervik Sharepoint](https://github.com/AbinetVives/2023-WZC-Wervik)
+#### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
 
 ### 📁 Teledienst
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
