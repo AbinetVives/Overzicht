@@ -11,7 +11,7 @@
 #### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
 
 ### 📁 Vivesplus
-► [Vivesplus Android]([https://github.com/AbinetVives/teledienst](https://github.com/AbinetVives/Vivesplus-android))
+► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
 ► [Vivesplus iOS](https://github.com/AbinetVives/Vivesplus-ios)
 
 
