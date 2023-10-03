@@ -10,6 +10,11 @@
 #### [2023 WZC Wervik Sharepoint](https://github.com/AbinetVives/2023-WZC-Wervik)
 #### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
 
+### 📁 Vivesplus
+► [Vivesplus Android]([https://github.com/AbinetVives/teledienst](https://github.com/AbinetVives/Vivesplus-android))
+► [Vivesplus iOS](https://github.com/AbinetVives/Vivesplus-ios)
+
+
 ### 📁 Teledienst
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 ► [Televestiaire](https://github.com/AbinetVives/televestiaire)
