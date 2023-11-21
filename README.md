@@ -2,6 +2,7 @@
 
 # Overzicht projecten                                                                         
 
+#### [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
 #### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 #### [2022 UDL](https://github.com/AbinetVives/udl)
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
@@ -9,13 +10,18 @@
 #### [2023 AO Fietscontrole 2.0](https://github.com/AbinetVives/2023AO-Fietscontrole2.0.git)
 #### [2023 WZC Wervik Sharepoint](https://github.com/AbinetVives/2023-WZC-Wervik)
 #### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
+#### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
+#### [2023 Bibester Backend](https://github.com/AbinetVives/BibsterBackend)
+
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
 ► [Vivesplus iOS](https://github.com/AbinetVives/Vivesplus-ios)
+► [Vivesplus SwiftUI](https://github.com/AbinetVives/vivesplus_swiftUI)
 
 
 ### 📁 Teledienst
+► [2023 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 ► [Televestiaire](https://github.com/AbinetVives/televestiaire)
 
