@@ -11,7 +11,7 @@
 #### [2023 WZC Wervik Sharepoint](https://github.com/AbinetVives/2023-WZC-Wervik)
 #### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
 #### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
-#### [2023 Bibester Backend](https://github.com/AbinetVives/BibsterBackend)
+#### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
 
 
 ### 📁 Vivesplus
