@@ -3,8 +3,7 @@
 # Overzicht projecten                                                                         
 
 #### [2023-2024 ClubManager](https://github.com/AbinetVives/ClubManager)
-#### [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
-#### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
+
 #### [2022 UDL](https://github.com/AbinetVives/udl)
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
 #### [2021 Assessment Card](https://github.com/AbinetVives/assessment-card)
@@ -14,6 +13,9 @@
 #### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
 #### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
 
+### 📁 Elindus
+#### [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
+#### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
