@@ -2,6 +2,7 @@
 
 # Overzicht projecten                                                                         
 
+#### [2023-2024 ClubManager](https://github.com/AbinetVives/ClubManager)
 #### [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
 #### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 #### [2022 UDL](https://github.com/AbinetVives/udl)
