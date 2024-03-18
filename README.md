@@ -13,8 +13,8 @@
 #### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
 
 ### 📁 Elindus
-#### [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
-#### [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
+► [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
+► [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
