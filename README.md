@@ -1,7 +1,11 @@
 <img src="logo.png" width="200"> <img src="https://www.vives.be/themes/custom/vives/logo.svg" width="125">
 
-# Overzicht projecten                                                                         
+# Overzicht projecten
 
+#### [2024-2025 Kamelego](https://github.com/AbinetVives/24-25-Kamelego)
+#### [2024-2025 Buso De Kouter](https://github.com/AbinetVives/24-25-Buso-De-Kouter)
+#### [2024-2025 Voetbal Vlaanderen](https://github.com/AbinetVives/24-25-Voetbal-Vlaanderen)
+#### [2024-2025 KRC Harelbeke](https://github.com/AbinetVives/24-25-KRC-Harelbeke)
 #### [2023-2024 ClubManager](https://github.com/AbinetVives/ClubManager)
 #### [2022 UDL](https://github.com/AbinetVives/udl)
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
@@ -12,17 +16,22 @@
 #### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
 #### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
 
+### 📁 Vedelux
+► [2024-2025 NodeJS API Vedelux](https://github.com/AbinetVives/NodeJS_API_Vedelux)
+► [2024-2025 Android app Vedelux](https://github.com/AbinetVives/Android_app_Vedelux)
+
 ### 📁 Elindus
 ► [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
 ► [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
+► [Vivesplus Android Jet Compose](https://github.com/AbinetVives/vivesplusandroidjpc)
 ► [Vivesplus iOS](https://github.com/AbinetVives/Vivesplus-ios)
 ► [Vivesplus SwiftUI](https://github.com/AbinetVives/vivesplus_swiftUI)
 
 ### 📁 Teledienst
-► [2023 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
+► [2023-2024 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 ► [Televestiaire](https://github.com/AbinetVives/televestiaire)
 
