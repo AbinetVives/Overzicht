@@ -6,6 +6,7 @@
 #### [2024-2025 Buso De Kouter](https://github.com/AbinetVives/24-25-Buso-De-Kouter)
 #### [2024-2025 Voetbal Vlaanderen](https://github.com/AbinetVives/24-25-Voetbal-Vlaanderen)
 #### [2024-2025 KRC Harelbeke](https://github.com/AbinetVives/24-25-KRC-Harelbeke)
+#### [2024-2025 Abinet Infra](https://github.com/abinetvives/24-25-InfraDiensten/)
 #### [2023-2024 ClubManager](https://github.com/AbinetVives/ClubManager)
 #### [2022 UDL](https://github.com/AbinetVives/udl)
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
