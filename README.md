@@ -3,10 +3,7 @@
 # Overzicht projecten
 
 #### [2024-2025 Kamelego](https://github.com/AbinetVives/24-25-Kamelego)
-#### [2024-2025 Buso De Kouter](https://github.com/AbinetVives/24-25-Buso-De-Kouter)
 #### [2024-2025 Voetbal Vlaanderen](https://github.com/AbinetVives/24-25-Voetbal-Vlaanderen)
-#### [2024-2025 KRC Harelbeke](https://github.com/AbinetVives/24-25-KRC-Harelbeke)
-#### [2024-2025 Abinet Infra](https://github.com/abinetvives/24-25-InfraDiensten/)
 #### [2023-2024 ClubManager](https://github.com/AbinetVives/ClubManager)
 #### [2022 UDL](https://github.com/AbinetVives/udl)
 #### [2022 XQuizit](https://github.com/AbinetVives/xQuizIT)
@@ -16,6 +13,21 @@
 #### [2023 Dekier Sharepoint](https://github.com/AbinetVives/2023-DeKier)
 #### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
 #### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
+
+### 📁 Buso De Kouter
+► [2024-2025 Buso De Kouter](https://github.com/AbinetVives/24-25-Buso-De-Kouter)
+► [2024-2025 Buso De Kouter Backend](https://github.com/AbinetVives/24-25-Buso-De-Kouter-Backend)
+
+### 📁 KRC Harelbeke
+► [2024-2025 KRC Harelbeke Backend](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Backend)
+► [2024-2025 KRC Harelbeke Frontend](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Frontend)
+► [2024-2025 KRC Harelbeke Adminportaal](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Admin-Portaal)
+
+### 📁 Abinet Infra
+► [2024-2025 Abinet Infra Website](https://github.com/AbinetVives/24-25-InfraDiensten)
+► [2024-2025 Abinet Infra Redmine](https://github.com/AbinetVives/24-25-AbinetRedmine)
+► [2024-2025 Abinet Infra Ticketing](https://github.com/AbinetVives/abinetticketingsysteem)
+► [2024-2025 Abinet Infra Documentatie](https://github.com/AbinetVives/24-25-AbinetDocumentatie)
 
 ### 📁 Vedelux
 ► [2024-2025 NodeJS API Vedelux](https://github.com/AbinetVives/NodeJS_API_Vedelux)
@@ -45,6 +57,16 @@
 ### 📁 Projectwerk Rapportering Repositories
 ► [2023 AO Projectwerk Rapportering](https://github.com/AbinetVives/2023AO-Projectwerk-Rapportering.git)
 ► [2022 AO Projectwerk Rapportering](https://github.com/AbinetVives/2022-Projectwerk-Rapportering.git)
+
+### 📁 Practice Enterprise 1 AJ24-25
+► [24-25 Vives Int 1 Angular](https://github.com/AbinetVives/24-25-Vives-Int-1-Angular)
+► [24-25 Vives Int 2 Angular](https://github.com/AbinetVives/24-25-Vives-Int-2-Angular)
+► [24-25 Vives Int 1 Node](https://github.com/AbinetVives/24-25-Vives-Int-1-Node)
+► [24-25 Vives Int 2 Node](https://github.com/AbinetVives/24-25-Vives-Int-2-Node)
+► [24-25 Poperinge Angular](https://github.com/AbinetVives/24-25-Poperinge-Angular)
+► [24-25 Poperinge NodeJs](https://github.com/AbinetVives/24-25-Poperinge-Node)
+► [24-25 Project Izegem](https://github.com/AbinetVives/24-25-Project-Izegem)
+► [24-25 Project Izegem Inwoners](https://github.com/AbinetVives/24-25-Project-Izegem-Inwoners)
 
 ### 📁 Practice Enterprise 1 AJ23-24
 ► [2024 Transfo](https://github.com/AbinetVives/23-24_PE1_Transfo)
