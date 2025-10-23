@@ -14,28 +14,12 @@
 #### [2023 Televic EDU](https://github.com/AbinetVives/23_24_TelevicEDU)
 #### [2023 Biebster Backend](https://github.com/AbinetVives/BibsterBackend)
 
-### 📁 Buso De Kouter
-► [2024-2025 Buso De Kouter](https://github.com/AbinetVives/24-25-Buso-De-Kouter)
-► [2024-2025 Buso De Kouter Backend](https://github.com/AbinetVives/24-25-Buso-De-Kouter-Backend)
-
-### 📁 KRC Harelbeke
-► [2024-2025 KRC Harelbeke Backend](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Backend)
-► [2024-2025 KRC Harelbeke Frontend](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Frontend)
-► [2024-2025 KRC Harelbeke Adminportaal](https://github.com/AbinetVives/24-25-KRC-Harelbeke-Admin-Portaal)
 
 ### 📁 Abinet Infra
 ► [2024-2025 Abinet Infra Website](https://github.com/AbinetVives/24-25-InfraDiensten)
 ► [2024-2025 Abinet Infra Redmine](https://github.com/AbinetVives/24-25-AbinetRedmine)
 ► [2024-2025 Abinet Infra Ticketing](https://github.com/AbinetVives/abinetticketingsysteem)
 ► [2024-2025 Abinet Infra Documentatie](https://github.com/AbinetVives/24-25-AbinetDocumentatie)
-
-### 📁 Vedelux
-► [2024-2025 NodeJS API Vedelux](https://github.com/AbinetVives/NodeJS_API_Vedelux)
-► [2024-2025 Android app Vedelux](https://github.com/AbinetVives/Android_app_Vedelux)
-
-### 📁 Elindus
-► [2023-2024 Elindus](https://github.com/AbinetVives/2023-2024-Elindus)
-► [2022-2023 Elindus](https://github.com/AbinetVives/elindus)
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
@@ -47,12 +31,6 @@
 ► [2023-2024 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 ► [Televestiaire](https://github.com/AbinetVives/televestiaire)
-
-### 📁 ErgoForm
-► [2024 AO Ergo Form](https://github.com/AbinetVives/ErgoForm-AO2324)
-► [2024 AO Ergo Form Test](https://github.com/AbinetVives/ErgoForm-AO2324-Test)
-► [2023 Ergo Form 1 PE1](https://github.com/AbinetVives/2023-ergo-web1)
-► [2023 Ergo Form 1 PE2](https://github.com/AbinetVives/2023-ergo-web2)
 
 ### 📁 Projectwerk Rapportering Repositories
 ► [2023 AO Projectwerk Rapportering](https://github.com/AbinetVives/2023AO-Projectwerk-Rapportering.git)
