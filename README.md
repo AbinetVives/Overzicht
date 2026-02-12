@@ -42,3 +42,7 @@
 ► [2024-2025-Gulle-Heem-frontend](https://github.com/AbinetVives/24-25-Gulle-Heem-frontend)
 ► [2024-2025-Code_Opslaglijst](https://github.com/AbinetVives/Code_Opslaglijst)
 ► [2024-2025-Code_Werknemerlijst](https://github.com/AbinetVives/Code_Werknemerlijst)
+
+### 📁 Buitenkans - Poperinge
+► [25-26-Buitenkans-Poperinge](https://github.com/AbinetVives/25-26-Buitenkans-Poperinge)
+
