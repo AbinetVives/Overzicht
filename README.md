@@ -12,11 +12,9 @@
 
 
 ### 📁 Abinet Infra
-► [2025-2026 Abinet Infra Documentatie](https://github.com/AbinetVives/25-26-InfraDiensten)
-► [2024-2025 Abinet Infra Website](https://github.com/AbinetVives/24-25-InfraDiensten)
-► [2024-2025 Abinet Infra Redmine](https://github.com/AbinetVives/24-25-AbinetRedmine)
-► [2024-2025 Abinet Infra Ticketing](https://github.com/AbinetVives/abinetticketingsysteem)
-► [2024-2025 Abinet Infra Documentatie](https://github.com/AbinetVives/24-25-AbinetDocumentatie)
+► [25-26 Abinet Documentatie](https://github.com/AbinetVives/25-26-AbinetDocumentatie)
+► [25-26 Infra Diensten](https://github.com/AbinetVives/25-26-InfraDiensten)
+► [25-26 Procedures Abinet Infra](https://github.com/AbinetVives/25-26-Procedures-AbinetInfra)
 
 ### 📁 Vivesplus
 ► [Vivesplus Android](https://github.com/AbinetVives/Vivesplus-android)
@@ -26,7 +24,7 @@
 ► [2024-2025 Vivesplus SwiftUI](https://github.com/AbinetVives/vivesplus_swiftUI)
 
 ### 📁 Teledienst
-► [2023-2024 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
+► [23-24 Teledienst 3.0](https://github.com/AbinetVives/23_24_Teledienst3.0)
 ► [2022 Teledienst](https://github.com/AbinetVives/teledienst)
 ► [Televestiaire](https://github.com/AbinetVives/televestiaire)
 
@@ -39,15 +37,24 @@
 ### 📁 HorseAlly
 ► [HorseAlly](https://github.com/AbinetVives/HorseAlly)
 ► [WebScraper](https://github.com/AbinetVives/WebScraper)
+► [SortingScript](https://github.com/AbinetVives/SortingScript)
 
 ### 📁 Het Gulle Heem
-► [2024-2025-Gulle-Heem-backend](https://github.com/AbinetVives/24-25-Gulle-Heem-backend)
-► [2024-2025-Gulle-Heem-frontend](https://github.com/AbinetVives/24-25-Gulle-Heem-frontend)
-► [2024-2025-Code_Opslaglijst](https://github.com/AbinetVives/Code_Opslaglijst)
-► [2024-2025-Code_Werknemerlijst](https://github.com/AbinetVives/Code_Werknemerlijst)
+► [24-25-Gulle-Heem-backend](https://github.com/AbinetVives/24-25-Gulle-Heem-backend)
+► [24-25-Gulle-Heem-frontend](https://github.com/AbinetVives/24-25-Gulle-Heem-frontend)
+► [24-25-Code_Opslaglijst](https://github.com/AbinetVives/Code_Opslaglijst)
+► [24-25-Code_Werknemerlijst](https://github.com/AbinetVives/Code_Werknemerlijst)
 
-### 📁 Buitenkans - Poperinge
+### 📁 Buitenkans-Poperinge
 ► [25-26-Buitenkans-Poperinge](https://github.com/AbinetVives/25-26-Buitenkans-Poperinge)
+
+### 📁 UDL-Fietscontrole
+► [udl](https://github.com/AbinetVives/udl)
+
+### 📁 Velo2Connect
+► [24-25-velotoconnect](https://github.com/AbinetVives/24-25-velotoconnect)
+► [25-26-velotoconnect-backend](https://github.com/AbinetVives/25-26-velotoconnect-backend)
+► [25-26-velotoconnect-frontend](https://github.com/AbinetVives/25-26-velotoconnect-frontend)
 
 # Overzicht projecten PE1
 #### [25-26-DevPro1-Spes-Nostra](https://github.com/AbinetVives/25-26-Devpro1)
@@ -63,3 +70,45 @@
 #### [25-26-RunSafe-backend](https://github.com/AbinetVives/25-26-RunSafe-backend)
 #### [25-26-RunSafe-frontend-app](https://github.com/AbinetVives/25-26-RunSafe-frontend-app)
 #### [25-26-RunSafe-frontend-web](https://github.com/AbinetVives/25-26-RunSafe-frontend-web)
+
+
+### 📁 DevPro1-Spes-Nostra
+► [25-26-Devpro1](https://github.com/AbinetVives/25-26-Devpro1)
+
+### 📁 DevPro2
+► [25-26-Devpro2](https://github.com/AbinetVives/25-26-Devpro2)
+
+### 📁 DevPro3
+► [25-26-Devpro3](https://github.com/AbinetVives/25-26-Devpro3)
+
+### 📁 DevPro4
+► [25-26-Devpro4](https://github.com/AbinetVives/25-26-Devpro4)
+
+### 📁 Biezoender-admin-frontend
+► [25-26-Biezoender-admin-frontend](https://github.com/AbinetVives/25-26-Biezoender-admin-frontend)
+
+### 📁 Biezoender-backend
+► [25-26-Biezoender-backend](https://github.com/AbinetVives/25-26-Biezoender-backend)
+
+### 📁 Biezoender-tablet-app
+► [25-26-Biezoender-tablet-app](https://github.com/AbinetVives/25-26-Biezoender-tablet-app)
+
+### 📁 Chatbot-Zonnehoeve
+► [25-26-chatbot-zonnehoeve](https://github.com/AbinetVives/25-26-chatbot-zonnehoeve)
+
+### 📁 Cocon-App-Marbotic
+► [25-26-Cocon-App-Marbotic](https://github.com/AbinetVives/25-26-Cocon-App-Marbotic)
+
+### 📁 Projectteam-Erasmus
+► [25-26-RadarWalk-Backend](https://github.com/AbinetVives/25-26-RadarWalk-Backend)
+► [25-26-RadarWalk-Mobile-App](https://github.com/AbinetVives/25-26-RadarWalk-Mobile-App)
+► [25-26-RadarWalk-Web-App](https://github.com/AbinetVives/25-26-RadarWalk-Web-App)
+
+### 📁 RunSafe-backend
+► [25-26-RunSafe-backend](https://github.com/AbinetVives/25-26-RunSafe-backend)
+
+### 📁 RunSafe-frontend-app
+► [25-26-RunSafe-frontend-app](https://github.com/AbinetVives/25-26-RunSafe-frontend-app)
+
+### 📁 RunSafe-frontend-web
+► [25-26-RunSafe-frontend-web](https://github.com/AbinetVives/25-26-RunSafe-frontend-web)
